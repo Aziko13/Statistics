@@ -12,4 +12,4 @@ Python (>= 3.4)
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [Aziz Abdraimov](https://github.com/Aziko13)
+* **Aziz Abdraimov** - *Initial work* - [Aziko13](https://github.com/Aziko13)
